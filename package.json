@@ -1,0 +1,23 @@
+{
+  "name": "js-open",
+  "version": "1.0.0",
+  "description": "Proyecto Js OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santinava06/Js-Open.git"
+  },
+  "keywords": [
+    "Hola"
+  ],
+  "author": "Santiago Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santinava06/Js-Open/issues"
+  },
+  "homepage": "https://github.com/santinava06/Js-Open#readme"
+}
